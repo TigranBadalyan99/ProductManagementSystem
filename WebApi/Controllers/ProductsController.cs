@@ -1,6 +1,7 @@
 using Core.Dtos.ProductDtos;
 using Core.Entites;
 using Infrastructure.DbContext;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
